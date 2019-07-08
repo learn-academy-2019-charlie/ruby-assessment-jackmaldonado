@@ -46,8 +46,8 @@ It is the same thing as string interpolation, which prints out whatever you put.
 
 //Your Answer
 
-some of the pros that come with testing are, making sure everything is going to work how you want it to, 
-
+some of the pros that come with testing are, making sure everything is going to work how you want it to, and makes you write the code multiple times, which can make you inderstand it better.
+Some cons of testing are, it takes a long time to do and it can be frustrating if it doesn't work right away.
 //Googled Answer
 
 
@@ -55,7 +55,11 @@ some of the pros that come with testing are, making sure everything is going to 
 
 //Your Answer
 
+An instance variable is a name that starts with the @ symbol.
+
 //Googled Answer
+
+The body of the initialize method now does nothing else but assign the value of the local variable name to an instance variable @name.
 
 #### 8. Ruby has a great community and tons of free resources to help you learn. Here is the long list of great resources: https://www.ruby-lang.org/en/documentation/. Below are a few popular ones:
 - Interactive Ruby tutorial (http://tryruby.org/levels/1/challenges/0)
@@ -64,3 +68,8 @@ some of the pros that come with testing are, making sure everything is going to 
 
 
 Choose one of these resources and go through the material (not for hours, only looking for around 10min of your time) then come back here and list a few new things you learned about Ruby.
+I chose tho look through "Ruby in 20 min"
+This is what I learned:
+-It was a good refresher on how ruby works
+-_FILE_ is something new I learned. It contains the name of the current file
+-.each is much more elegent than a for loop. This should be the way we always do it.
