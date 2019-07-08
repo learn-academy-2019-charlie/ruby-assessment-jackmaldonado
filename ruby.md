@@ -5,11 +5,13 @@ Try your best to answer each question on your own before looking up the answer o
 
 #### 1. What is a method in Ruby? How is it different or similar to functions in JavaScript?
 
+A method in Ruby is very similar to a javascript function.They both in data and return outputs.
 
 #### 2. What does it mean that a class inherits from another class? Try to explain Ruby inheritance. 
 
 
 [Your Answer]
+There is parent class that holds data which needs to be passed down to the child classes. When the data is passed doen to the other classses, it is inheriting it.
 
 
 [Googled Answer]
@@ -18,6 +20,7 @@ Try your best to answer each question on your own before looking up the answer o
 #### 3. What is rspec and what is the general process for writing tests in RSpec?
 
 //Your Answer
+rspec is how we test in ruby.The process is writing the first test that is going to fail, then we type the test code to make sure it passes. After that we type the actual code in ruby.
 
 //Googled Answer
 
@@ -25,6 +28,8 @@ Try your best to answer each question on your own before looking up the answer o
 #### 4. Name three possible non-inheritance relationships between ruby objects? 
 
 //Your Answer
+
+I am not sure. Don't remember.
 
 //Googled Answer
 
@@ -35,10 +40,13 @@ Try your best to answer each question on your own before looking up the answer o
 x = 1022
 puts "I am printing a random number #{x}"
 ```
+It is the same thing as string interpolation, which prints out whatever you put. The #{} will print out the variable that is put inside the brackets.
 
 #### 6. How do you feel about testing right now? What potential pros/cons/barriers/advantages do you see to implementing BDD in your own code?
 
 //Your Answer
+
+some of the pros that come with testing are, making sure everything is going to work how you want it to, 
 
 //Googled Answer
 
