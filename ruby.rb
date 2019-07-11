@@ -65,6 +65,7 @@ class Animal
   def legs
     @legs = 4
   end
+end
 
 #### 6b.  Create a new instance of an Animal with a brown color.  Return how many legs the animal has.
 bear = Animal.new('brown')
