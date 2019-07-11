@@ -28,11 +28,17 @@ rspec is how we test in ruby.The process is writing the first test that is going
 #### 4. Name three possible non-inheritance relationships between ruby objects? 
 
 //Your Answer
+belongs_to
+has_many
+has_one
+has_many_through
 
-I am not sure. Don't remember.
 
 //Googled Answer
-
+belongs_to
+has_many
+has_one
+has_many_through
 
 #### 5. What do we call the #{} convention used below? What is it accomplishing?
 
